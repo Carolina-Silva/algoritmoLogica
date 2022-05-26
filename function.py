@@ -25,4 +25,5 @@ def main():
     m2 = lerMatriz(2,4)
     media2 = media(m2)
     acimaMedia = (m2,media2)
+    
 main()
